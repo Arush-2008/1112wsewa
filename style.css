@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     margin: 0;
     padding-top: 800px;
 }
@@ -9,7 +10,7 @@ body {
     border-radius: 50%;
 }
 
-#welcome {
+#Welcome {
     position: absolute;
     height: 800px;
     color: #FFFFFF;
